@@ -16,4 +16,4 @@ package() {
   install $srcdir/opt/OpenPrinting-Ricoh/ppds/Ricoh/* $pkgdir/usr/share/cups/model/
   cp -r $srcdir/opt/OpenPrinting-Ricoh/doc $pkgdir/opt/OpenPrinting-Ricoh/doc
 }
-sha512sums=('6e8fe3eea093165fc8db50f9ca39b6d74f7d9dd877e9805075929236a3b6ede591f1e5b2394bd5371b14aebdc1ee0f67907ffce974ae7928ea3023fe409da0d7')
+sha512sums=('250934b732a5de42da623386b23ead1339991bdf997d39f1a8c6d527ba7ad4589e72881ea4b3763b05299594254496c44dd78db1be143e072bad75179d44dd37')
